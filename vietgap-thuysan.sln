@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "vietgap-thuysan", ".", "{F08989A2-C690-4A17-80A1-4BB67F0E806E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "2.0"
+		Debug.AspNetCompiler.VirtualPath = "/vietgap-thuysan"
+		Debug.AspNetCompiler.PhysicalPath = "E:\SES Project\VietGAP CTT\Vietgap CTT\vietgap-thuysan\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\vietgap-thuysan\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/vietgap-thuysan"
+		Release.AspNetCompiler.PhysicalPath = "E:\SES Project\VietGAP CTT\Vietgap CTT\vietgap-thuysan\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\vietgap-thuysan\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55051"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F08989A2-C690-4A17-80A1-4BB67F0E806E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F08989A2-C690-4A17-80A1-4BB67F0E806E}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
